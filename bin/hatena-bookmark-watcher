@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+# https://github.com/rails/rails/blob/master/railties/lib/rails/cli.rb
+require 'hatena-bookmark-watcher/cli'
+
+# Signal.trap(:INT) { exit }
