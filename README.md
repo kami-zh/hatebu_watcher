@@ -1,5 +1,8 @@
 # HatebuWatcher
 
+[![Build Status](https://travis-ci.org/kami30k/hatebu_watcher.svg)](https://travis-ci.org/kami30k/hatebu_watcher)
+[![Gem Version](https://badge.fury.io/rb/hatebu_watcher.svg)](http://badge.fury.io/rb/hatebu_watcher)
+
 HatebuWatcher is a utility to watch Hatena Bookmark count on console.
 Output count on console and notify using Growl when the value is changed.
 
