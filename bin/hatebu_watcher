@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require 'hatebu_watcher'
+
+Signal.trap(:INT) { exit }
+
+HatebuWatcher::Command.start
